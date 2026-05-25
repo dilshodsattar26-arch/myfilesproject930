@@ -1,0 +1,8 @@
+{
+    "name": "userservice-service",
+    "version": "1.0.930",
+    "private": false,
+    "environment": "production",
+    "build_id": 157,
+    "allow_public_access": true
+}
